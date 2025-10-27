@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **responsive website development**
 
-- 🌱 I’m currently learning **FULL STACK**
+- 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [IN MY GITHUB REPOS]
 
